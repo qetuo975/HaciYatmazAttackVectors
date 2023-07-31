@@ -1,4 +1,4 @@
-#!/usr/bin/python2.7
+#!/usr/bin/python3.8
 # iptables -I INPUT -j NFQUEUE --queue-num 0
 # iptables -I OUTPUT -j NFQUEUE --queue-num 0
 # iptables -I FORWARD -j NFQUEUE --queue-num 0
